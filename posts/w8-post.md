@@ -1,6 +1,6 @@
 ---
 title: Committing to an Idea (Week 8)
-date: 2026-02-24
+date: 2026-04-24
 author: Patricia
 summary: Finally decided on a concept. Read to find out what we end up commiting to!
 tags:
